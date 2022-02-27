@@ -1,0 +1,148 @@
+/*oddíly*/
+
+body {
+    margin: 0px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 25px;
+    color: #4b4b5f;
+    background-color: #FAF9F9;
+    text-align: justify;
+    width: 100%;
+    line-height: 130%;
+}
+
+section {
+    padding: 20px 100px 40px 100px;
+    margin: 0px;
+}
+
+header {
+    background-color: #bedfe3;
+}
+
+.uvod {
+    background-color: #FAF9F9;
+}
+
+.vzdelani {
+    background-color: #ffddc6;
+}
+
+.zkusenosti {
+    background-color: #FAF9F9;
+}
+
+.pedagogika {
+    background-color: #bedfe3;
+}
+
+.zajmy {
+    background-color: #FAF9F9;
+}
+
+.arky {
+    background-color: #ffddc6;
+}
+
+.kontakt {
+    background-color: #FAF9F9;
+}
+
+footer {
+    background-color: #bedfe3;
+    margin: 0px;
+    padding: 0px 0px 5px 0px;
+}
+/*nadpisy*/
+
+h1 {
+    color: #3b3b44;
+    padding: 30px;
+    margin: 0px;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h2 {
+    color: #3b3b44;
+    margin: 10px 0px;
+    text-align:justify;
+    font-size: 40px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.paticka {
+    color: #3b3b44;
+    text-align: center;
+    font-size: 20px;
+}
+
+/*obrázky*/
+
+.fotkasnb {
+width: 100%;
+}
+
+.profil {
+    width: 160px;
+    float: right;
+    border-radius: 50%;
+    border: 10px solid #ffddc6;
+    margin-left: 30px;
+   
+}
+
+.fotkafrancie {
+    width: 320px;
+    float: left;
+    border-radius: 50%;
+    border: 10px solid #FAF9F9;
+    margin-right: 40px;
+}
+
+.zahradka {
+    width: 220px;
+    float: right;
+    border-radius: 50%;
+    border: 10px solid #bedfe3;
+    margin-left: 30px; 
+}
+
+.fotoole {
+    width: 240px;
+    float: left;
+    border-radius: 50%;
+    border: 10px solid #FAF9F9;
+    margin-right: 30px; 
+}
+
+.fotozajmy {
+    width: 165px;
+    float:inherit;
+    border-radius: 50%;
+    border: 10px solid #bedfe3; 
+    margin: 10px;
+}
+
+.malaarky {
+    width: 160px;
+    float: right;
+    border-radius: 50%;
+    border: 10px solid #FAF9F9;
+    margin-left: 30px;
+}
+
+.prunerov {
+    width: 100%;
+}
+
+/*odkazy*/
+
+a {
+    color:#ffddc6;
+}
+
+a:hover {
+    color: #bedfe3
+}
